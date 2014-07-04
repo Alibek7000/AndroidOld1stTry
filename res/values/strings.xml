@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lucid dreams helper</string>
+    <string name="action_settings">Settings</string>
+    <string name="Manual">Нажмите кнопку Старт/Стоп</string>
+    <string name="startSleep">Старт</string>
+    <string name="SleepTimer">Таймер сна</string>
+    <string name="afterStarting">Я проснулся!</string>
+
+</resources>
